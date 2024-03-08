@@ -15,3 +15,9 @@ The two others Max for Live objects (values and triggers) can be put on midi tra
 
 #### Triggers
 ![alt text](Triggers.png?raw=true)
+You can define up to 6 triggers and set the midi notes that trigger them.
+
+#### Values
+![alt text](Sliders.png?raw=true)
+
+You can set up up to 4 parameter values per plugin instance. You can automate their slider and their name. Be sure to avoid duplicate parameter names through your Ableton session.
